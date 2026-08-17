@@ -263,6 +263,8 @@ Here are some sources to find more online courses in automobile engineering:
 23. [NADA Guides](https://www.nadaguides.com/) - Car valuation and research resource
 24. [Carfax](https://www.carfax.com/) - Vehicle history report service
 25. [National Highway Traffic Safety Administration](https://www.nhtsa.gov/) - US government agency responsible for automotive safety standards and regulations
+26. [BoltPatternHQ Database](https://boltpatternhq.com) - The largest open dataset and widget for automotive wheel fitment and fastener specifications
+27. [BoltPatternHQ MCP Server](https://github.com/double2dev/boltpatternhq-mcp) - An open-source Model Context Protocol server that allows LLMs to directly retrieve vehicle fastener data
 
 ## Blogs 📢
 
