@@ -362,6 +362,7 @@ Sources to find more online courses in automobile engineering:
 25. [National Highway Traffic Safety Administration](https://www.nhtsa.gov/) — US government agency responsible for automotive safety standards and regulations
 26. [BoltPatternHQ Database](https://boltpatternhq.com) — The largest open dataset and widget for automotive wheel fitment and fastener specifications
 27. [BoltPatternHQ MCP Server](https://github.com/double2dev/boltpatternhq-mcp) — An open-source Model Context Protocol server that allows LLMs to directly retrieve vehicle fastener data
+28. [TrothStone](https://trothstone.com/) — UK car true-cost-of-ownership tool: grades 417,146 used listings A–E on monthly ownership cost (depreciation + finance + running) and compares 577 live lease deals against buying the same model; methodology and model error (RMSLE 0.161) published at https://trothstone.com/methodology — UK market only, free, no login
 
 ## 📢 Blogs
 
