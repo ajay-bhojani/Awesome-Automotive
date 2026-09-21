@@ -263,6 +263,7 @@ Covers CAD/CAE/CFD/FEA, vehicle dynamics simulation, and the MIL/SIL/PIL/HIL/VIL
 - [KITTI Vision Benchmark Suite](https://www.cvlibs.net/datasets/kitti/) — one of the original and most-cited benchmarks for autonomous driving perception tasks.
 - [Apollo](https://github.com/ApolloAuto/apollo), [Autoware](https://github.com/autowarefoundation/autoware), [openpilot](https://github.com/commaai/openpilot) — see [ADAS & Autonomous Driving](#-adas--autonomous-driving) for descriptions.
 - [Automotive Grade Linux](https://www.automotivelinux.org/) — see [Automotive Software](#-automotive-software).
+- [ANKUSI Wheel Fitment Dataset](https://github.com/david025445/ankusi-wheel-fitment-data) — open dataset of wheel bolt pattern (PCD), centre bore, and OE/max fitment specifications for 7,603 vehicle variants across 130 makes, cross-verified against OEM references (CSV/JSON, CC BY 4.0).
 
 ## 🚧 Practical Project Ideas
 
