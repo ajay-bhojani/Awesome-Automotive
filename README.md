@@ -255,6 +255,7 @@ Covers CAD/CAE/CFD/FEA, vehicle dynamics simulation, and the MIL/SIL/PIL/HIL/VIL
 - [ROS 2 (Robot Operating System)](https://www.ros.org/) — middleware framework underlying many autonomous-driving stacks, including Autoware.
 - [BoltPatternHQ Database](https://boltpatternhq.com) — open dataset and widget for automotive wheel fitment and fastener specifications.
 - [BoltPatternHQ MCP Server](https://github.com/double2dev/boltpatternhq-mcp) — open-source Model Context Protocol server that allows LLMs to directly retrieve vehicle fastener data.
+- [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) — open-source Tesla CAN bus toolkit for Flipper Zero and ESP32: candump-format frame capture, live BMS dashboard, and read-modify-retransmit handlers for Model 3/Y/S/X over OBD-II or the X179 connector (GPL-3.0).
 
 ## 📊 Datasets & Open-Source Projects
 
