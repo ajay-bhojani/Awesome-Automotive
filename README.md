@@ -125,7 +125,7 @@ Resources to find schools and programs in automotive engineering:
 
 - [WorldWideLearn](https://www.worldwidelearn.com/online-education-guide/engineering/automotive-engineering-major.htm)
 - [Study.com](https://study.com/articles/Automobile_Engineering_Schools_and_Colleges_in_the_US.html)
-- [Peterson's](https://www.petersons.com/college-search/automotive-engineering-programs-14_10013180.aspx)
+- [Peterson's](https://www.petersons.com/college-search.aspx)
 
 Internships, co-ops, and student organizations such as [SAE International](https://www.sae.org/) (including [Formula SAE](#-motorsport--competitions)) are valuable for networking and hands-on experience.
 
@@ -178,7 +178,8 @@ Covers electric and hybrid vehicles, battery technology, battery management syst
 - [SAE J1772 / Combined Charging System overview — SAE International](https://www.sae.org/standards/content/j1772_201710/) — the standard connector/protocol for EV charging in North America.
 - [CHAdeMO Association](https://www.chademo.com/) — DC fast-charging standard body and technical resources.
 - [Open Charge Alliance — OCPP](https://www.openchargealliance.org/) — open protocol for communication between charging stations and network operators, relevant to V2G and smart-charging engineering.
-- [BMS design fundamentals — Texas Instruments Battery Management Resources](https://www.ti.com/applications/industrial/battery-management/overview.html) — reference designs and application notes for battery monitoring, balancing, and protection.
+- [BMS design fundamentals — Texas Instruments Battery Management Resources](https://www.ti.com/power-management/battery-management/overview.html) — reference designs and application notes for battery monitoring, balancing, and protection.
+- [Battery Breakthroughs Are Arriving Faster Than the Grid Can Handle (Calder Brief, 2026)](https://calder-brief.pages.dev/battery-breakthrough-evs) - 2026 EV-battery milestone news roundup.
 
 **Suggested sub-topics for future contributions:** thermal management of battery packs, second-life battery applications, solid-state batteries, and motor/inverter co-design — flag these in a pull request with sources if you have good resources to add.
 
@@ -339,7 +340,7 @@ Sources to find more online courses in automobile engineering:
 ## 🌐 Websites
 
 01. [SAE International](https://www.sae.org/) — Society of Automotive Engineers
-02. [Automotive Engineering Online](https://www.nxtbook.com/nxtbooks/sae/automotiveengineering_202108/index.php) — SAE International publication
+02. [Automotive Engineering Online](https://www.sae.org/publications/magazines/automotive-engineering) — SAE International publication
 03. [Automotive News](https://www.autonews.com/) — News and data resource for auto industry professionals
 04. [Car and Driver](https://www.caranddriver.com/) — Automotive reviews, news, and buying guides
 05. [Motor Trend](https://www.motortrend.com/) — Car reviews, news, and features
@@ -642,12 +643,12 @@ Sources for more automotive YouTube channels:
 10. The Motor Trend Audio Podcast — [Listen](https://www.motortrend.com/the-motor-trend-audio-podcast/) — By Motor Trend editors. Discussions on automotive news, reviews, and culture.
 11. Spike's Car Radio — [Listen](https://podcasts.apple.com/us/podcast/spikes-car-radio/id1077043758) — By Spike Feresten. Interviews and discussions with industry professionals and car enthusiasts.
 12. No Driving Gloves — [Listen](https://nodrivinggloves.libsyn.com/) — By Derek Moore and Matthew Haab. Discussions on classic cars, car culture, and automotive history.
-13. Shift & Steer — [Listen](https://www.shiftandsteer.com/radio/) — By Brad Fanshaw, Aaron Hagar, and Matt D'Andria. Discussions on cars, automotive news, and car culture.
+13. Shift & Steer — [Listen](https://www.shiftandsteer.com/) — By Brad Fanshaw, Aaron Hagar, and Matt D'Andria. Discussions on cars, automotive news, and car culture.
 14. The Collecting Cars Podcast — [Listen](https://www.collectingcars.com/podcast) — By Chris Harris and Edward Lovett. Discussions on classic cars, car auctions, and car culture.
 15. The Kibbe and Finnegan Show — [Listen](https://themusclecarplace.com/kibbe-and-finnegan-show/) — By Rob Kibbe and Mike Finnegan. Discussions on classic cars, car culture, and car adventures.
 16. Past Gas — [Listen](https://www.donut.com/show/past-gas) — By James Pumphrey, Nolan Sykes, and Joe Weber. A weekly podcast by Donut Media exploring the rich history of cars and the automotive industry.
 17. The Motor Affair — [Listen](https://themotoraffair.com/podcast/) — By Michael and Peter. Car reviews, automotive industry news, and interviews with industry experts.
-18. CarStuff (iHeart) — [Listen](https://www.iheart.com/podcast/211-carstuff-26974226/) — By HowStuffWorks.com. Exploring the history, culture, and engineering behind cars.
+18. CarStuff (iHeart) — [Listen](https://www.iheart.com/podcast/carstuff-21122711/) — By HowStuffWorks.com. Exploring the history, culture, and engineering behind cars.
 19. The Collecting Cars Podcast (alt.) — [Listen](https://collectingcars.com/podcast) — By Chris Harris and Edward Lovett. Interviews with car collectors and experts.
 20. The Smoking Tire Podcast (YouTube) — [Listen](https://www.youtube.com/user/TheSmokingTire) — By Matt Farah. Discussions on cars, driving, and the automotive industry.
 21. Talking Cars with Consumer Reports — [Listen](https://www.consumerreports.org/cars-talking-cars-podcast/) — By Consumer Reports automotive experts. Car reviews, industry news, and buying advice.
