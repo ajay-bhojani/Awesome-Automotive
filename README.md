@@ -174,7 +174,6 @@ Covers electric and hybrid vehicles, battery technology, battery management syst
 - [Advanced Electric Drive Vehicles](https://www.amazon.com/Advanced-Electric-Drive-Vehicles-Electrification/dp/1466581459) by Ali Emadi — comprehensive reference on EV powertrains (see [Books](#-books)).
 - [Battery University](https://batteryuniversity.com/) — practical, vendor-neutral explanations of battery chemistry, charging, and lifecycle management, run by Cadex Electronics.
 - [NREL Battery Research](https://www.nrel.gov/transportation/battery-research.html) — U.S. National Renewable Energy Laboratory research on battery performance, safety, and degradation.
-- [Electric Vehicle Charging Infrastructure (Coursera)](https://www.coursera.org/learn/ev-charging-infrastructure) — course on charging standards and network design (see [Online Courses](#-online-courses)).
 - [SAE J1772 / Combined Charging System overview — SAE International](https://www.sae.org/standards/content/j1772_201710/) — the standard connector/protocol for EV charging in North America.
 - [CHAdeMO Association](https://www.chademo.com/) — DC fast-charging standard body and technical resources.
 - [Open Charge Alliance — OCPP](https://www.openchargealliance.org/) — open protocol for communication between charging stations and network operators, relevant to V2G and smart-charging engineering.
@@ -318,7 +317,6 @@ Covers CAD/CAE/CFD/FEA, vehicle dynamics simulation, and the MIL/SIL/PIL/HIL/VIL
 04. [Automotive Engineering: High-Performance Cars](https://www.futurelearn.com/courses/high-performance-cars) — FutureLearn
 05. [Vehicle Dynamics](https://www.udacity.com/course/vehicle-dynamics--ud741) — Udacity
 06. [Electric Cars: Business, Engineering, and Policy](https://www.edx.org/course/electric-cars-business-engineering-and-policy) — edX
-07. [Electric Vehicle Charging Infrastructure](https://www.coursera.org/learn/ev-charging-infrastructure) — Coursera
 08. [Introduction to Automotive Engineering and Design](https://www.udemy.com/course/introduction-to-automotive-engineering-and-design/) — Udemy
 09. [Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading](https://ocw.mit.edu/courses/materials-science-and-engineering/3-11-mechanics-of-materials-i-fall-1999/) — MIT OpenCourseWare
 10. [Fundamentals of Combustion](https://ocw.mit.edu/courses/mechanical-engineering/2-51-fundamentals-of-combustion-fall-2010/) — MIT OpenCourseWare
@@ -670,7 +668,6 @@ Sources for more automotive YouTube channels:
 3. *Journal of Mechanical Engineering Research and Developments* — Upadhyay, S. (2021) — [Click Here](https://www.irjet.net/archives/V8/i8/IRJET-V8I829.pdf)
 4. *International Journal of Sustainable Transportation* — Taylor & Francis Group — [Click Here](https://www.tandfonline.com/toc/gsut20/current)
 5. *IEEE Transactions on Intelligent Transportation Systems* — IEEE — [Click Here](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
-6. *International Journal of Automotive Engineering and Technologies* — Science Publishing Corporation — [Click Here](http://pubs.sciepub.com/ijevt)
 7. *Transportation Research Part C: Emerging Technologies* — Elsevier — [Click Here](https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies)
 8. *International Journal of Vehicle Design* — Inderscience Publishers — [Click Here](https://www.inderscience.com/jhome.php?jcode=ijvd)
 9. *Journal of Automobile Engineering* — SAGE Journals — [Click Here](https://journals.sagepub.com/home/jae)
