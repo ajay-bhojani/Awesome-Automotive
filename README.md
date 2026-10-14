@@ -1,7 +1,5 @@
 # 🚗 Awesome Automotive Engineering Resources
 
-![Banner Image](../main/Awesome-Automotive.png)
-
 > Automotive (or automobile) engineering is the branch of engineering concerned with the design, development, manufacturing, testing, and maintenance of self-propelled vehicles that carry goods, cargo, and passengers by road. See the [Introduction](#-introduction) for more.
 
 `"Share the love, give a star to show your appreciation, and spread the knowledge by sharing with others."`
@@ -139,12 +137,12 @@ In addition to classroom instruction, students may gain practical experience thr
 ### United Kingdom
 
 - [UCAS – Undergraduate Course Search](https://www.ucas.com/)
-- [Engineering Council – Accredited Course Search](https://www.engc.org.uk/education-skills/accreditation/accredited-course-search)
+- [Engineering Council – Accredited Course Search](https://www.engc.org.uk/education-and-skills/find-your-course)
 
 ### Germany
 
 - [DAAD – International Degree Programmes](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/)
-- [DAAD – International Automotive Engineering Programs](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-ingolstadt-international-automotive-engineering-w5904/)
+- [DAAD – International Automotive Engineering Programs](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/)
 
 ### Europe
 
@@ -160,7 +158,7 @@ In addition to classroom instruction, students may gain practical experience thr
 ### Australia & New Zealand
 
 - [Study Australia – Course Search](https://www.studyaustralia.gov.au/)
-- [Engineers Australia – Accredited Programs](https://www.engineersaustralia.org.au/education/accreditation)
+- [Engineers Australia – Accredited Programs](https://www.engineersaustralia.org.au/publications/engineers-australia-accredited-programs)
 
 ### Canada
 
@@ -329,7 +327,7 @@ Covers **electric and hybrid vehicles**, **battery technology**, **battery manag
 
 - [U.S. Department of Energy — Alternative Fuels Data Center](https://afdc.energy.gov/) — comprehensive resources and data on electric vehicles, charging infrastructure, alternative fuels, vehicle technologies, and transportation energy.
 
-- [Electric Vehicle Charging Infrastructure (Coursera)](https://www.coursera.org/learn/ev-charging-infrastructure) — course covering EV charging infrastructure, charging technologies, standards, and network considerations (see [Online Courses](#-online-courses)).
+- [Electric Vehicle Charging Infrastructure (Coursera)](https://www.coursera.org/learn/plug-into-the-future-ev-charging-essentials) — course covering EV charging infrastructure, charging technologies, standards, and network considerations (see [Online Courses](#-online-courses)).
 
 - [SAE J1772 — SAE International](https://www.sae.org/standards/content/j1772_202401/) — SAE standard covering conductive charging couplers for electric vehicles and the associated charging interface.
 
@@ -337,11 +335,11 @@ Covers **electric and hybrid vehicles**, **battery technology**, **battery manag
 
 - [Open Charge Alliance — OCPP](https://www.openchargealliance.org/) — open communication protocol resources for EV charging stations and charging management systems, including applications related to smart charging.
 
-- [Texas Instruments — Battery Management](https://www.ti.com/applications/industrial/battery-management/overview.html) — battery-management resources, reference designs, application notes, and semiconductor solutions for battery monitoring, balancing, protection, and charging.
+- [Texas Instruments — Battery Management](https://www.ti.com/applications/automotive/hev-ev-powertrain/hev-ev-battery-management-system-bms/overview.html) — battery-management resources, reference designs, application notes, and semiconductor solutions for battery monitoring, balancing, protection, and charging.
 
 - [Analog Devices — Battery Management Systems](https://www.analog.com/en/applications/technology/battery-management.html) — technical resources covering battery monitoring, balancing, state estimation, isolation, and high-voltage battery-management architectures.
 
-- [Infineon — Electric Vehicle](https://www.infineon.com/cms/en/applications/automotive/electric-vehicle/) — engineering resources covering EV powertrains, inverters, charging, battery management, and automotive power electronics.
+- [Infineon — Electric Vehicle](https://www.infineon.com/cms/en/applications/automotive/) — engineering resources covering EV powertrains, inverters, charging, battery management, and automotive power electronics.
 
 - [STMicroelectronics — Electric Vehicles](https://www.st.com/content/st_com/en/applications/automotive/electric-vehicles.html) — technical resources covering EV powertrains, battery management, charging, motor control, and automotive semiconductor technologies.
 
@@ -359,7 +357,6 @@ Covers **electric and hybrid vehicles**, **battery technology**, **battery manag
 
 <details>
 <summary><strong>⚡ Explore advanced EV & battery topics</strong></summary>
-
 
 - **Battery Thermal Management** — cooling and heating strategies for cells, modules, and packs.
 - **Battery State Estimation** — state of charge (SOC), state of health (SOH), state of power (SOP), and remaining useful life (RUL).
@@ -419,7 +416,6 @@ Covers **embedded systems**, **ECUs**, **AUTOSAR**, **RTOS**, **microcontrollers
 
 - [ISO 17987 — Local Interconnect Network (LIN)](https://www.iso.org/standard/61222.html) — international standard series for LIN communication, commonly used for lower-cost automotive body and comfort applications.
 
-- [ISO 17458 — FlexRay](https://www.iso.org/standard/59805.html) — international standard series defining FlexRay communication technology for automotive networks.
 
 - [ASAM](https://www.asam.net/) — open standards organization for automotive development, testing, measurement, calibration, simulation, and data exchange, including XCP, A2L, MDF, ODX, and related standards.
 
@@ -433,7 +429,7 @@ Covers **embedded systems**, **ECUs**, **AUTOSAR**, **RTOS**, **microcontrollers
 
 - [Eclipse Software Defined Vehicle Landscape](https://projects.eclipse.org/projects/automotive.sdv-landscape) — continuously maintained overview of Eclipse Foundation projects related to software-defined vehicles, including tooling, middleware, RTOS, AI, digital twins, and orchestration.
 
-- [Eclipse Foundation — Automotive and Mobility](https://www.eclipse.org/org/workinggroups/automotive/) — open-source automotive software ecosystem covering SDV technologies, tooling, middleware, vehicle platforms, and development frameworks.
+- [Eclipse Foundation — Automotive and Mobility](https://www.eclipse.org/collaborations/working-groups/automotive/) — open-source automotive software ecosystem covering SDV technologies, tooling, middleware, vehicle platforms, and development frameworks.
 
 - [Eclipse Kuksa](https://www.eclipse.org/kuksa/) — open-source software ecosystem for connected and software-defined vehicles, including vehicle data access, services, and cloud/edge integration.
 
@@ -447,7 +443,7 @@ Covers **embedded systems**, **ECUs**, **AUTOSAR**, **RTOS**, **microcontrollers
 
 - [AUTOSAR OS](https://www.autosar.org/) — automotive operating-system architecture and specifications supporting deterministic ECU software execution and integration.
 
-- [Linux Foundation Automotive](https://www.linuxfoundation.org/projects/automotive) — open-source automotive software ecosystem and projects supporting connected and software-defined vehicle development.
+- [Linux Foundation Automotive](https://www.automotivelinux.org/) — open-source automotive software ecosystem and projects supporting connected and software-defined vehicle development.
 
 - [SOAFEE](https://www.soafee.io/) — Service-Oriented Architecture for the Embedded Edge, an industry initiative focused on cloud-native software architectures for embedded automotive and edge systems.
 
@@ -457,27 +453,27 @@ Covers **embedded systems**, **ECUs**, **AUTOSAR**, **RTOS**, **microcontrollers
 
 - [OpenSynergy](https://www.opensynergy.com/) — automotive virtualization and software technologies including hypervisors and virtualized ECU environments.
 
-- [Vector Informatik — Automotive Technologies](https://www.vector.com/int/en/know-how/technologies/) — technical resources covering automotive communication, diagnostics, AUTOSAR, embedded software, CAN, LIN, FlexRay, Ethernet, and development tools.
+- [Vector Informatik — Automotive Technologies](https://www.vector.com/en/industries/automotive/) — technical resources covering automotive communication, diagnostics, AUTOSAR, embedded software, CAN, LIN, FlexRay, Ethernet, and development tools.
 
 - [ETAS](https://www.etas.com/) — automotive embedded software and engineering resources covering AUTOSAR, cybersecurity, diagnostics, calibration, embedded systems, and software-defined vehicles.
 
 - [Elektrobit](https://www.elektrobit.com/) — automotive embedded software technologies covering AUTOSAR, ECU software, operating systems, cybersecurity, and software-defined vehicle development.
 
-- [NXP Automotive](https://www.nxp.com/applications/automotive:AUTOMOTIVE) — semiconductor and embedded-system resources covering automotive microcontrollers, processors, networking, radar, electrification, and vehicle architectures.
+- [NXP Automotive](https://www.nxp.com/applications/automotive/) — semiconductor and embedded-system resources covering automotive microcontrollers, processors, networking, radar, electrification, and vehicle architectures.
 
 - [STMicroelectronics Automotive](https://www.st.com/content/st_com/en/solutions/automotive.html) — automotive microcontrollers, sensors, connectivity, power management, embedded processing, and vehicle electronics resources.
 
 - [Infineon Automotive](https://www.infineon.com/cms/en/applications/automotive/) — resources covering automotive microcontrollers, power semiconductors, sensors, connectivity, cybersecurity, and electronic control systems.
 
-- [Texas Instruments Automotive](https://www.ti.com/automotive/) — technical resources covering automotive microcontrollers, processors, sensors, power management, networking, and embedded systems.
+- [Texas Instruments Automotive](https://www.ti.com/applications/overview.html) — technical resources covering automotive microcontrollers, processors, sensors, power management, networking, and embedded systems.
 
-- [Microchip Automotive](https://www.microchip.com/en-us/solutions/automotive) — automotive microcontrollers, connectivity, networking, functional safety, security, and embedded-system solutions.
+- [Microchip Automotive](https://www.microchip.com/en-us/solutions/automotive-and-transportation) — automotive microcontrollers, connectivity, networking, functional safety, security, and embedded-system solutions.
 
 - [SocketCAN — Linux Kernel](https://www.kernel.org/doc/html/latest/networking/can.html) — Linux networking subsystem for CAN, useful for developing and testing CAN-based automotive applications on Linux.
 
 - [CANopenNode](https://github.com/CANopenNode/CANopenNode) — open-source CANopen protocol stack useful for studying CAN-based embedded networking and protocol implementation.
 
-- [OpenXC](https://github.com/openxc/openxc) — open-source vehicle data platform providing tools and libraries for accessing and working with vehicle data.
+- [OpenXC](https://github.com/openxc) — open-source vehicle data platform providing tools and libraries for accessing and working with vehicle data.
 
 - [python-can](https://python-can.readthedocs.io/) — Python library for Controller Area Network communication, useful for CAN development, testing, logging, and automation.
 
@@ -487,7 +483,7 @@ Covers **embedded systems**, **ECUs**, **AUTOSAR**, **RTOS**, **microcontrollers
 
 - [Introduction to Automotive Embedded Systems (Udemy)](https://www.udemy.com/course/introduction-to-automotive-embedded-systems/) — practical introduction to automotive embedded concepts (see [Online Courses](#-online-courses)).
 
-- [Automotive Mechatronics: Automotive Networking, Driving Stability Systems, Electronics](https://www.amazon.com/Automotive-Mechatronics-Networking-Stability-Electronics/dp/3642047847) by Konrad Reif — reference covering automotive electronics, networking, mechatronics, and vehicle control systems (see [Books](#-books)).
+- [Automotive Mechatronics: Automotive Networking, Driving Stability Systems, Electronics](https://link.springer.com/book/10.1007/978-3-658-03975-2) by Konrad Reif — reference covering automotive electronics, networking, mechatronics, and vehicle control systems (see [Books](#-books)).
 
 - [Automotive Electronics Design Fundamentals](https://www.amazon.com/Automotive-Electronics-Design-Fundamentals-Zaman/dp/1119977193) by Najamuz Zaman — reference covering automotive electronic system design and engineering fundamentals (see [Books](#-books)).
 
@@ -495,7 +491,6 @@ Covers **embedded systems**, **ECUs**, **AUTOSAR**, **RTOS**, **microcontrollers
 
 <details>
 <summary><strong>🔍 Key Topics</strong></summary>
-
 
 - **Electronic Control Units (ECUs)** — microcontrollers, processors, sensors, actuators, memory, communication interfaces, and ECU architectures.
 - **Microcontrollers & Automotive SoCs** — MCU/MPU architectures, peripherals, timers, ADCs, communication interfaces, memory, and automotive-grade processors.
@@ -533,7 +528,7 @@ Covers automotive software engineering practices including **embedded software d
 
 - [Eclipse Software Defined Vehicle](https://sdv.eclipse.org/) — open-source ecosystem focused on software-defined vehicle technologies, including vehicle software platforms, middleware, tooling, and cloud-native development.
 
-- [Eclipse Foundation — Automotive and Mobility](https://www.eclipse.org/org/workinggroups/automotive/) — open-source automotive ecosystem covering SDV technologies, vehicle software, tooling, middleware, and connected mobility.
+- [Eclipse Foundation — Automotive and Mobility](https://www.eclipse.org/collaborations/working-groups/automotive/) — open-source automotive ecosystem covering SDV technologies, vehicle software, tooling, middleware, and connected mobility.
 
 - [Eclipse Kuksa](https://www.eclipse.org/kuksa/) — open-source software ecosystem for connected and software-defined vehicles, including vehicle data access, services, and cloud/edge integration.
 
@@ -555,11 +550,11 @@ Covers automotive software engineering practices including **embedded software d
 
 - [Zephyr Project](https://www.zephyrproject.org/) — open-source real-time operating system for resource-constrained embedded devices and microcontrollers.
 
-- [Linux Foundation Automotive](https://www.linuxfoundation.org/projects/automotive) — open-source automotive software projects and ecosystem resources covering Linux-based vehicle platforms and software-defined vehicles.
+- [Linux Foundation Automotive](https://www.automotivelinux.org/) — open-source automotive software projects and ecosystem resources covering Linux-based vehicle platforms and software-defined vehicles.
 
 - [GENIVI](https://www.genivi.org/) — open automotive software ecosystem and historical foundation for open-source in-vehicle infotainment and connected-car technologies.
 
-- [Automotive SPICE (ASPICE)](https://www.automotivespice.com/) — process assessment framework widely used for evaluating automotive software and systems development processes.
+- [Automotive SPICE (ASPICE)](https://vda-qmc.de/en/automotive-spice/) — process assessment framework widely used for evaluating automotive software and systems development processes.
 
 - [ISO 26262 — Functional Safety](https://www.iso.org/standard/68383.html) — international functional-safety standard covering the development lifecycle of safety-related automotive electrical and electronic systems, including software.
 
@@ -619,7 +614,6 @@ Covers automotive software engineering practices including **embedded software d
 
 <details>
 <summary><strong>🔍 Key Topics</strong></summary>
-
 
 - **Embedded C/C++** — core programming languages for automotive ECUs, microcontrollers, and real-time systems.
 - **Real-Time Operating Systems (RTOS)** — task scheduling, interrupts, synchronization, timing, and deterministic execution.
@@ -702,7 +696,7 @@ Covers sensors and perception (camera, radar, LiDAR), sensor fusion, computer vi
 - [CommonRoad-CriMe](https://github.com/CommonRoad/commonroad-crime) — framework for analyzing and evaluating criticality and safety of motion-planning trajectories.
 - [CommonRoad Motion Planning](https://commonroad.in.tum.de/) — research ecosystem providing standardized scenarios and tools for evaluating autonomous-vehicle motion-planning algorithms.
 - [Apollo Planning](https://github.com/ApolloAuto/apollo/tree/master/modules/planning) — planning modules within Apollo covering behavior and trajectory planning for autonomous vehicles.
-- [Autoware Planning](https://autowarefoundation.github.io/autoware-documentation/main/design/autoware-architecture/planning/) — planning architecture and components within the Autoware autonomous-driving stack.
+- [Autoware Planning](https://docs.autoware.org/main/design/autoware-architecture/planning/) — planning architecture and components within the Autoware autonomous-driving stack.
 
 ### Safety, Regulation & Automation Levels
 
@@ -732,7 +726,6 @@ Covers sensors and perception (camera, radar, LiDAR), sensor fusion, computer vi
 
 <details>
 <summary><strong>🔍 Key Topics</strong></summary>
-
 
 - ADAS architectures
 - Autonomous driving stacks
@@ -804,14 +797,13 @@ Covers telematics, vehicle-to-everything (V2X) communication, connected-vehicle 
 - [COVESA Vehicle Signal Specification (VSS)](https://covesa.global/project/vehicle-signal-specification/) — open, technology-agnostic data model that standardizes the meaning and structure of vehicle signals such as speed, tire pressure, lights, and vehicle state.
 - [COVESA Vehicle Information Service Specification (VISS)](https://covesa.global/project/vehicle-information-service-specification/) — API specification for accessing vehicle data represented using VSS.
 - [COVESA VSS Tools](https://github.com/COVESA/vss-tools) — tools for working with Vehicle Signal Specification models and transforming vehicle data representations.
-- [W3C Automotive](https://www.w3.org/auto/) — web technologies and standards work related to vehicle data, APIs, and automotive applications.
+- [W3C Automotive](https://www.w3.org/ecosystems/automotive-transportation/) — web technologies and standards work related to vehicle data, APIs, and automotive applications.
 - [Eclipse Kuksa](https://eclipse.dev/kuksa/) — open-source software and tooling for vehicle data access, VSS-based vehicle abstraction, and connected-vehicle applications.
 
 ### Software-Defined Vehicle Platforms
 
 - [Eclipse Software Defined Vehicle Working Group](https://www.eclipse.org/collaborations/working-groups/sdv/) — open collaboration ecosystem for scalable, modular, extensible software-defined vehicle platforms.
 - [Eclipse SDV Projects](https://projects.eclipse.org/working-group/eclipse-software-defined-vehicle) — collection of open-source SDV projects covering vehicle software platforms, diagnostics, middleware, tooling, and cloud/edge integration.
-- [Eclipse Safe Open Vehicle Core](https://projects.eclipse.org/projects/automotive.sovd) — open-source core stack initiative targeting high-performance computing platforms for software-defined vehicles.
 - [Eclipse OpenSOVD](https://projects.eclipse.org/projects/automotive.opensovd) — open-source implementation of Service-Oriented Vehicle Diagnostics (SOVD), based on ISO 17978.
 - [Eclipse iceoryx](https://iceoryx.io/) — zero-copy inter-process communication middleware designed for high-performance, low-latency data exchange.
 - [Eclipse uProtocol](https://github.com/eclipse-uprotocol) — open communication framework designed to support distributed software components across vehicles and cloud environments.
@@ -821,7 +813,7 @@ Covers telematics, vehicle-to-everything (V2X) communication, connected-vehicle 
 ### Cloud-Native Automotive Architecture
 
 - [SOAFEE](https://www.soafee.io/) — industry-led architecture initiative bringing cloud-native development paradigms, virtualization, and hardware abstraction to automotive software-defined vehicles.
-- [SOAFEE Specifications](https://www.soafee.io/specifications/) — specifications and architectural guidance for cloud-native automotive workloads spanning development, deployment, and vehicle-edge environments.
+- [SOAFEE Specifications](https://www.soafee.io/) — specifications and architectural guidance for cloud-native automotive workloads spanning development, deployment, and vehicle-edge environments.
 - [CoreAVI / CoreCollective](https://www.corecollective.io/) — open collaboration ecosystem associated with the evolution of SOAFEE and cloud-native embedded-edge technologies.
 - [Eclipse Foundation Automotive & Mobility](https://automotive.eclipse.org/) — open-source automotive ecosystem covering SDV, vehicle middleware, tooling, simulation, and connected mobility.
 
@@ -846,7 +838,7 @@ Covers telematics, vehicle-to-everything (V2X) communication, connected-vehicle 
 - [MQTT](https://mqtt.org/) — lightweight publish/subscribe messaging protocol widely used in IoT, telematics, fleet-management, and vehicle-to-cloud applications.
 - [Eclipse Mosquitto](https://mosquitto.org/) — open-source MQTT broker suitable for connected-device and automotive cloud prototypes.
 - [Eclipse Zenoh](https://zenoh.io/) — high-performance communication technology designed for distributed systems spanning edge, vehicle, and cloud environments.
-- [Kuksa.val](https://github.com/eclipse-kuksa/kuksa.val) — open-source vehicle abstraction and data-access platform based on the COVESA VSS model.
+- [Kuksa.val](https://github.com/eclipse-kuksa) — open-source vehicle abstraction and data-access platform based on the COVESA VSS model.
 - [Eclipse Hono](https://eclipse.dev/hono/) — scalable IoT messaging and device-connectivity framework that can be used as part of vehicle-to-cloud architectures.
 
 ### Vehicle Networking & Middleware
@@ -878,7 +870,6 @@ Covers telematics, vehicle-to-everything (V2X) communication, connected-vehicle 
 
 <details>
 <summary><strong>🔍 Key Topics</strong></summary>
-
 
 - Connected vehicles
 - Vehicle-to-Vehicle (V2V)
@@ -976,7 +967,6 @@ Covers functional safety, safety of the intended functionality (SOTIF), automoti
 <details>
 <summary><strong>🔐 Cybersecurity Engineering Topics</strong></summary>
 
-
 - Threat Analysis and Risk Assessment (TARA)
 - Cybersecurity goals
 - Cybersecurity claims
@@ -1025,7 +1015,6 @@ Covers functional safety, safety of the intended functionality (SOTIF), automoti
 <details>
 <summary><strong>📋 Key Safety Standards</strong></summary>
 
-
 - ISO 26262 — Functional Safety
 - ISO 21448 — SOTIF
 - ISO/SAE 21434 — Cybersecurity Engineering
@@ -1053,15 +1042,15 @@ Covers CAD/CAE/CFD/FEA, vehicle dynamics simulation, ECU and software testing, m
 - [MIL — Model-in-the-Loop](https://www.mathworks.com/help/simulink/mdl-in-the-loop-testing.html) — validates control algorithms and system models before implementation on production hardware.
 - [SIL — Software-in-the-Loop](https://www.mathworks.com/help/sldv/ug/software-in-the-loop-testing.html) — executes generated or production software against simulated plant models.
 - [PIL — Processor-in-the-Loop](https://www.mathworks.com/help/ecoder/processor-in-the-loop.html) — validates generated code on the target processor or representative processor environment.
-- [HIL — Hardware-in-the-Loop](https://www.dspace.com/en/ltd/home/applicationfields/indaut/hil.cfm) — tests real ECUs and embedded controllers against real-time simulated vehicle environments.
-- [VIL — Vehicle-in-the-Loop](https://www.dspace.com/en/ltd/home/applicationfields/indaut/vehicle-in-the-loop.cfm) — combines physical vehicle hardware with simulated environments for advanced vehicle-function validation.
+- [HIL — Hardware-in-the-Loop](https://www.dspace.com/en/pub/home/products/systems/ecutest/hil-test-phases.cfm) — tests real ECUs and embedded controllers against real-time simulated vehicle environments.
+- [VIL — Vehicle-in-the-Loop](https://www.dspace.com/en/inc/home/news/engineers-insights/blog-vehicle-in-the-loop-sim.cfm) — combines physical vehicle hardware with simulated environments for advanced vehicle-function validation.
 - [XiL — X-in-the-Loop](https://www.asam.net/standards/detail/xil/) — standardized approach for connecting different test environments and test automation systems.
 
 ### HIL & Real-Time Simulation
 
 - [dSPACE](https://www.dspace.com/) — automotive development and validation platform covering rapid control prototyping, HIL testing, simulation, ECU testing, and autonomous-driving validation.
 - [Speedgoat](https://www.speedgoat.com/) — real-time simulation and HIL testing platforms integrated with MATLAB and Simulink.
-- [NI Automotive Test](https://www.ni.com/en/solutions/automotive.html) — hardware and software platforms for HIL, ECU validation, battery testing, power electronics, and automotive test automation.
+- [NI Automotive Test](https://www.ni.com/en/solutions/automotive-test.html) — hardware and software platforms for HIL, ECU validation, battery testing, power electronics, and automotive test automation.
 - [Vector](https://www.vector.com/) — automotive development and testing ecosystem covering CAN, LIN, Ethernet, diagnostics, ECU calibration, simulation, and test automation.
 - [ETAS](https://www.etas.com/) — automotive software engineering, testing, measurement, calibration, and cybersecurity solutions.
 - [AVL](https://www.avl.com/) — simulation, testing, powertrain development, vehicle dynamics, ADAS, and electrification engineering solutions.
@@ -1089,8 +1078,8 @@ Covers CAD/CAE/CFD/FEA, vehicle dynamics simulation, ECU and software testing, m
 
 - [CarSim](https://www.carsim.com/) — vehicle-dynamics simulation environment for handling, ride, braking, steering, and ADAS development.
 - [TruckSim](https://www.carsim.com/products/trucksim/) — vehicle-dynamics simulation environment for trucks and commercial vehicles.
-- [IPG CarMaker](https://ipg-automotive.com/en/products/carmaker/) — virtual vehicle development and testing environment covering vehicle dynamics, ADAS, autonomous driving, and powertrain.
-- [AVL CRUISE M](https://www.avl.com/en/simulation/vehicle-simulation) — vehicle and powertrain simulation environment for conventional, hybrid, and electric vehicles.
+- [IPG CarMaker](https://www.ipg-automotive.com/) — virtual vehicle development and testing environment covering vehicle dynamics, ADAS, autonomous driving, and powertrain.
+- [AVL CRUISE M](https://www.avl.com/en-in/simulation-solutions) — vehicle and powertrain simulation environment for conventional, hybrid, and electric vehicles.
 - [Eclipse SUMO](https://eclipse.dev/sumo/) — open-source traffic simulation platform useful for traffic, routing, connected vehicles, and autonomous-driving research.
 
 ### Autonomous Driving Simulation & Validation
@@ -1107,7 +1096,7 @@ Covers CAD/CAE/CFD/FEA, vehicle dynamics simulation, ECU and software testing, m
 
 - [ASAM](https://www.asam.net/) — international standards organization developing open standards for automotive testing, measurement, simulation, data exchange, and tool interoperability.
 - [ASAM XIL](https://www.asam.net/standards/detail/xil/) — standardized API for connecting test automation systems with simulation and test benches.
-- [ASAM OTX](https://www.asam.net/standards/detail/otx/) — standardized language for describing diagnostic and test sequences.
+- [ASAM OTX](https://www.asam.net/standards/) — standardized language for describing diagnostic and test sequences.
 - [ASAM MDF](https://www.asam.net/standards/detail/mdf/) — standardized measurement-data format widely used for automotive test and calibration data.
 - [ASAM ODS](https://www.asam.net/standards/detail/ods/) — standard for storing and managing test and measurement data.
 - [ASAM OpenSCENARIO](https://www.asam.net/standards/detail/openscenario-xml/) — scenario description standard for automated-driving simulation and validation.
@@ -1116,14 +1105,14 @@ Covers CAD/CAE/CFD/FEA, vehicle dynamics simulation, ECU and software testing, m
 
 - [Vector CANoe](https://www.vector.com/int/en/products/products-a-z/software/canoe/) — development and test environment for automotive networks, ECUs, diagnostics, simulation, and automated testing.
 - [Vector CANalyzer](https://www.vector.com/int/en/products/products-a-z/software/canalyzer/) — analysis and measurement tool for automotive communication networks.
-- [ETAS INCA](https://www.etas.com/ww/en/products/inca-software-products/) — measurement, calibration, diagnostics, and ECU-development environment.
-- [dSPACE AutomationDesk](https://www.dspace.com/en/ltd/home/products/sw/automationdesk.cfm) — test automation environment for HIL and embedded-system testing.
+- [ETAS INCA](https://www.etas.com/ww/en/products/) — measurement, calibration, diagnostics, and ECU-development environment.
+- [dSPACE AutomationDesk](https://www.dspace.com/) — test automation environment for HIL and embedded-system testing.
 - [TPT — Piketec](https://www.piketec.com/) — test automation platform supporting model-based testing, ECU testing, HIL, regression testing, and requirements traceability.
 - [Speedgoat HIL](https://www.speedgoat.com/knowledge-center/whitepapers-and-technical-articles/whitepaper-hardware-in-the-loop-with-matlab-simulink) — real-time HIL testing with MATLAB/Simulink and Speedgoat target machines.
 
 ### Crash & Safety Testing
 
-- [Automotive Crash Mechanics — Coursera](https://www.coursera.org/learn/automotive-crash-mechanics) — course covering crash mechanics, crashworthiness, and automotive crash analysis.
+- [Automotive Crash Mechanics — Coursera](https://www.coursera.org/courses?query=automotive%20crash%20mechanics) — course covering crash mechanics, crashworthiness, and automotive crash analysis.
 - [NHTSA Vehicle Safety Research](https://www.nhtsa.gov/research-data) — U.S. vehicle-safety research, testing, crash data, and safety-performance resources.
 - [Euro NCAP](https://www.euroncap.com/) — independent vehicle-safety assessment organization providing crash-test protocols, ratings, and safety research.
 - [IIHS — Insurance Institute for Highway Safety](https://www.iihs.org/) — independent vehicle-safety research and crash-testing organization.
@@ -1139,7 +1128,6 @@ Covers CAD/CAE/CFD/FEA, vehicle dynamics simulation, ECU and software testing, m
 
 <details>
 <summary><strong>🔍 Key Topics</strong></summary>
-
 
 - Model-in-the-Loop (MIL)
 - Software-in-the-Loop (SIL)
@@ -1232,7 +1220,7 @@ A collection of engineering, simulation, CAD/CAE, automotive networking, embedde
 
 - [CarSim](https://www.carsim.com/) — vehicle-dynamics simulation environment for handling, ride, braking, steering, and ADAS development.
 - [TruckSim](https://www.carsim.com/products/trucksim/) — vehicle-dynamics simulation environment for commercial vehicles.
-- [IPG CarMaker](https://ipg-automotive.com/en/products/carmaker/) — virtual vehicle development and testing platform for vehicle dynamics, ADAS, autonomous driving, and powertrain.
+- [IPG CarMaker](https://www.ipg-automotive.com/) — virtual vehicle development and testing platform for vehicle dynamics, ADAS, autonomous driving, and powertrain.
 - [AVL](https://www.avl.com/) — engineering and simulation solutions covering powertrain, electrification, vehicle dynamics, ADAS, testing, and development.
 - [SimScale](https://www.simscale.com/) — cloud-based engineering simulation platform supporting CFD, FEA, and thermal analysis.
 
@@ -1241,7 +1229,7 @@ A collection of engineering, simulation, CAD/CAE, automotive networking, embedde
 - [Vector CANoe](https://www.vector.com/int/en/products/products-a-z/software/canoe/) — development, simulation, diagnostics, analysis, and automated testing environment for automotive networks and ECUs.
 - [Vector CANalyzer](https://www.vector.com/int/en/products/products-a-z/software/canalyzer/) — analysis and measurement tool for CAN, LIN, FlexRay, Automotive Ethernet, and related vehicle networks.
 - [Vector CANape](https://www.vector.com/int/en/products/products-a-z/software/canape/) — ECU measurement, calibration, diagnostics, and data-analysis environment.
-- [ETAS INCA](https://www.etas.com/ww/en/products/inca-software-products/) — ECU measurement, calibration, diagnostics, and development environment.
+- [ETAS INCA](https://www.etas.com/ww/en/products/) — ECU measurement, calibration, diagnostics, and development environment.
 - [Kvaser](https://kvaser.com/) — CAN/CAN FD hardware and software ecosystem with tools and educational resources for vehicle-network development.
 - [SocketCAN](https://www.kernel.org/doc/html/latest/networking/can.html) — Linux CAN networking implementation providing native CAN support.
 - [Wireshark](https://www.wireshark.org/) — network protocol analyzer useful for Automotive Ethernet and supported CAN-related workflows.
@@ -1272,7 +1260,7 @@ A collection of engineering, simulation, CAD/CAE, automotive networking, embedde
 
 - [dSPACE](https://www.dspace.com/) — development and validation platform covering rapid control prototyping, HIL testing, ECU validation, and autonomous-driving simulation.
 - [Speedgoat](https://www.speedgoat.com/) — real-time simulation and HIL platforms integrated with MATLAB and Simulink.
-- [NI Automotive](https://www.ni.com/en/solutions/automotive.html) — hardware and software solutions for ECU, HIL, battery, power-electronics, and automotive test systems.
+- [NI Automotive](https://www.ni.com/en/solutions/automotive-test.html) — hardware and software solutions for ECU, HIL, battery, power-electronics, and automotive test systems.
 - [IPG Automotive](https://ipg-automotive.com/) — virtual vehicle development and real-time simulation tools for automotive testing.
 - [ASAM](https://www.asam.net/) — open automotive standards for testing, simulation, measurement, data exchange, and tool interoperability.
 - [ASAM XIL](https://www.asam.net/standards/detail/xil/) — standardized API for connecting test automation systems with simulation and test benches.
@@ -1283,7 +1271,7 @@ A collection of engineering, simulation, CAD/CAE, automotive networking, embedde
 - [Zelos Documentation](https://docs.zeloscloud.io/latest/) — documentation covering the Zelos application, SDK, agent, extensions, notebooks, and hardware-data workflows.
 - [BoltPatternHQ](https://boltpatternhq.com/) — automotive wheel-fitment database and lookup platform covering bolt pattern, PCD, center bore, thread size, offset, and related fitment information.
 - [BoltPatternHQ MCP Server](https://github.com/double2dev/boltpatternhq-mcp) — open-source Model Context Protocol server providing AI assistants with access to BoltPatternHQ wheel-fitment reference data.
-- [ANKUSI Wheel Fitment Dataset](https://github.com/david025445/ankusi-wheel-fitment-data) — open CC BY 4.0 dataset of factory wheel specifications including bolt pattern, center bore, lug count, and OE wheel sizes.
+- [ANKUSI Wheel Fitment Dataset](https://github.com/david025445) — open CC BY 4.0 dataset of factory wheel specifications including bolt pattern, center bore, lug count, and OE wheel sizes.
 
 ---
 
@@ -1343,7 +1331,7 @@ A collection of automotive datasets, benchmarks, open-source vehicle platforms, 
 
 ### Wheel & Fitment Data
 
-- [ANKUSI Wheel Fitment Dataset](https://github.com/david025445/ankusi-wheel-fitment-data) — open CC BY 4.0 dataset containing factory wheel specifications for thousands of vehicle variants.
+- [ANKUSI Wheel Fitment Dataset](https://github.com/david025445) — open CC BY 4.0 dataset containing factory wheel specifications for thousands of vehicle variants.
 - [BoltPatternHQ](https://boltpatternhq.com/) — searchable automotive wheel-fitment and fastener database.
 - [BoltPatternHQ MCP Server](https://github.com/double2dev/boltpatternhq-mcp) — MCP integration for retrieving BoltPatternHQ automotive fitment data from AI development environments.
 
@@ -1537,7 +1525,7 @@ A collection of automotive datasets, benchmarks, open-source vehicle platforms, 
 07. Automotive Air Conditioning and Climate Control Systems by Steven Daly — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Automotive-Conditioning-Climate-Control-Systems/dp/1859606193)
 08. Automotive Bodywork and Rust Repair by Matt Joseph — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Automotive-Bodywork-Rust-Repair-Joseph/dp/1932494976)
 09. Automotive Technology: Principles, Diagnosis, and Service by James D. Halderman — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Automotive-Technology-Principles-Diagnosis-Service/dp/0135224804)
-10. Automotive Mechatronics: Automotive Networking, Driving Stability Systems, Electronics by Konrad Reif — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Automotive-Mechatronics-Networking-Stability-Electronics/dp/3642047847)
+10. Automotive Mechatronics: Automotive Networking, Driving Stability Systems, Electronics by Konrad Reif — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://link.springer.com/book/10.1007/978-3-658-03975-2)
 11. Advanced Electric Drive Vehicles by Ali Emadi — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Advanced-Electric-Drive-Vehicles-Electrification/dp/1466581459)
 12. Automotive User Interfaces: Creating Interactive Experiences in the Car by Gerrit Meixner — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Automotive-User-Interfaces-Interactive-Experiences/dp/1118976377)
 13. Automotive NVH Technology by Gang Sheng — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Automotive-Technology-Mechanical-Engineering-English/dp/9811028915)
@@ -1545,7 +1533,7 @@ A collection of automotive datasets, benchmarks, open-source vehicle platforms, 
 15. Automotive Electronics Design Fundamentals by Najamuz Zaman — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Automotive-Electronics-Design-Fundamentals-Zaman/dp/1119977193)
 16. Fundamentals of Vehicle Dynamics by Thomas D. Gillespie — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Fundamentals-Vehicle-Dynamics-Thomas-Gillespie/dp/1560911999)
 17. Vehicle Handling Dynamics: Theory and Application by Masato Abe — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Vehicle-Handling-Dynamics-Application-Masato/dp/0081003909)
-18. Automotive Computer Controlled Systems by Allan Bonnick — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Automotive-Computer-Controlled-Systems-Diagnosis/dp/0750685229)
+18. Automotive Computer Controlled Systems by Allan Bonnick — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://shop.elsevier.com/books/automotive-computer-controlled-systems/bonnick/978-0-7506-5089-2)
 19. Automotive Engineering: Powertrain, Chassis System and Vehicle Body by David Crolla — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Automotive-Engineering-Powertrain-Chassis-Vehicle/dp/1466596744)
 20. Automotive Software Engineering: Principles, Processes, Methods, and Tools by Jörg Schäuffele — [![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=white)](https://www.amazon.com/Automotive-Software-Engineering-Principles-Processes/dp/0768078641)
 
@@ -1553,15 +1541,15 @@ A collection of automotive datasets, benchmarks, open-source vehicle platforms, 
 
 22. Battery Management Systems, Volume 1: Battery Modeling by Gregory L. Plett — [![Artech House](https://img.shields.io/badge/Artech_House-Book-333333?logo=bookstack&logoColor=white)](https://us.artechhouse.com/Battery-Management-Systems-Volume-1-P1629.aspx)
 
-23. Battery Management Systems, Volume 2: Equivalent-Circuit Methods by Gregory L. Plett — [![Artech House](https://img.shields.io/badge/Artech_House-Book-333333?logo=bookstack&logoColor=white)](https://us.artechhouse.com/Battery-Management-Systems-Volume-2-P1630.aspx)
+23. Battery Management Systems, Volume 2: Equivalent-Circuit Methods by Gregory L. Plett — [![Artech House](https://img.shields.io/badge/Artech_House-Book-333333?logo=bookstack&logoColor=white)](https://us.artechhouse.com/Battery-Management-Systems-Volume-II-Equivalent-Circuit-Methods-P1775.aspx)
 
 24. Vehicle Dynamics and Control by Rajesh Rajamani — [![Springer](https://img.shields.io/badge/Springer-Book-0071A1?logo=springer&logoColor=white)](https://link.springer.com/book/10.1007/978-1-4614-1433-9)
 
-25. Automotive Control Systems: For Engine, Driveline, and Vehicle by Uwe Kiencke & Lars Nielsen — [![Springer](https://img.shields.io/badge/Springer-Book-0071A1?logo=springer&logoColor=white)](https://link.springer.com/book/10.1007/978-3-662-05480-8)
+25. Automotive Control Systems: For Engine, Driveline, and Vehicle by Uwe Kiencke & Lars Nielsen — [![Springer](https://img.shields.io/badge/Springer-Book-0071A1?logo=springer&logoColor=white)](https://books.google.com/books?q=Automotive+Control+Systems+Kiencke+Nielsen)
 
 26. Autonomous Driving: Technical, Legal and Social Aspects by Markus Maurer, J. Christian Gerdes, Barbara Lenz & Hermann Winner — [![Springer](https://img.shields.io/badge/Springer-Book-0071A1?logo=springer&logoColor=white)](https://link.springer.com/book/10.1007/978-3-662-48847-8)
 
-27. Handbook of Driver Assistance Systems by Hermann Winner, Stephan Hakuli, Felix Lotz & Christoph Singer — [![Springer](https://img.shields.io/badge/Springer-Book-0071A1?logo=springer&logoColor=white)](https://link.springer.com/book/10.1007/978-3-319-12352-0)
+27. Handbook of Driver Assistance Systems by Hermann Winner, Stephan Hakuli, Felix Lotz & Christoph Singer — [![Springer](https://img.shields.io/badge/Springer-Book-0071A1?logo=springer&logoColor=white)](https://books.google.com/books?q=Handbook+of+Driver+Assistance+Systems)
 
 28. Automotive Cyber Security: Engineering Principles and Practices by David Ward & Paul Stoker — [![CRC Press](https://img.shields.io/badge/CRC_Press-Book-005A9C?logo=bookstack&logoColor=white)](https://www.routledge.com/)
 
@@ -1573,29 +1561,29 @@ A collection of automotive datasets, benchmarks, open-source vehicle platforms, 
 
 > Online courses in automobile engineering worth considering:
 
-01. [Automotive Engineering: Powertrain, Chassis System and Vehicle Body](https://www.coursera.org/learn/automotive-engineering-powertrain-chassis-vehicle-body) — Coursera
-02. [Introduction to Automotive Engineering](https://www.edx.org/course/introduction-to-automotive-engineering) — edX
-03. [Automotive Systems Engineering](https://ocw.mit.edu/courses/mechanical-engineering/2-993j-automotive-systems-engineering-spring-2013/) — MIT OpenCourseWare
-04. [Automotive Engineering: High-Performance Cars](https://www.futurelearn.com/courses/high-performance-cars) — FutureLearn
-05. [Vehicle Dynamics](https://www.udacity.com/course/vehicle-dynamics--ud741) — Udacity
-06. [Electric Cars: Business, Engineering, and Policy](https://www.edx.org/course/electric-cars-business-engineering-and-policy) — edX
-07. [Electric Vehicle Charging Infrastructure](https://www.coursera.org/learn/ev-charging-infrastructure) — Coursera
+01. [Automotive Engineering: Powertrain, Chassis System and Vehicle Body](https://www.coursera.org/courses?query=automobile%20engineering) — Coursera
+02. [Introduction to Automotive Engineering](https://www.edx.org/learn/engineering/chalmers-university-of-technology-electric-and-conventional-vehicles) — edX
+03. [Automotive Systems Engineering](https://ocw.mit.edu/courses/2-993j-automotive-systems-engineering-spring-2013/) — MIT OpenCourseWare
+04. [Automotive Engineering: High-Performance Cars](https://www.futurelearn.com/courses/automotive-industrial-technology) — FutureLearn
+05. [Vehicle Dynamics](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) — Udacity
+06. [Electric Cars: Business, Engineering, and Policy](https://www.edx.org/certificates/professional-certificate/delftx-electric-cars) — edX
+07. [Electric Vehicle Charging Infrastructure](https://www.coursera.org/learn/plug-into-the-future-ev-charging-essentials) — Coursera
 08. [Introduction to Automotive Engineering and Design](https://www.udemy.com/course/introduction-to-automotive-engineering-and-design/) — Udemy
-09. [Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading](https://ocw.mit.edu/courses/materials-science-and-engineering/3-11-mechanics-of-materials-i-fall-1999/) — MIT OpenCourseWare
-10. [Fundamentals of Combustion](https://ocw.mit.edu/courses/mechanical-engineering/2-51-fundamentals-of-combustion-fall-2010/) — MIT OpenCourseWare
-11. [Vehicle Engineering](https://online.liverpool.ac.uk/programmes/vehicle-engineering-msc/) — University of Liverpool Online
+09. [Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading](https://ocw.mit.edu/courses/3-11-mechanics-of-materials-i-fall-1999/) — MIT OpenCourseWare
+10. [Fundamentals of Combustion](https://ocw.mit.edu/courses/2-51-fundamentals-of-combustion-fall-2010/) — MIT OpenCourseWare
+11. [Vehicle Engineering](https://www.edx.org/school/chalmersx) — University of Liverpool Online
 12. [Introduction to Automotive Embedded Systems](https://www.udemy.com/course/introduction-to-automotive-embedded-systems/) — Udemy
-13. [Automotive Engineering and Design](https://www.edx.org/professional-certificate/delftx-automotive-engineering-and-design) — edX
-14. [Vehicle Technology: Chassis and Transmission Design](https://www.futurelearn.com/courses/vehicle-technology-chassis-and-transmission-design) — FutureLearn
-15. [Automotive Crash Mechanics](https://www.coursera.org/learn/automotive-crash-mechanics) — Coursera
+13. [Automotive Engineering and Design](https://www.edx.org/school/delftx) — edX
+14. [Vehicle Technology: Chassis and Transmission Design](https://www.futurelearn.com/courses/automotive-industrial-technology) — FutureLearn
+15. [Automotive Crash Mechanics](https://www.coursera.org/courses?query=automotive%20crash%20mechanics) — Coursera
 
 16. [Introduction to Automotive Embedded Systems](https://www.coursera.org/learn/introduction-to-automotive-embedded-systems) — Coursera
 17. [Plug Into The Future: EV Charging Essentials](https://www.coursera.org/learn/plug-into-the-future-ev-charging-essentials) — Coursera
 18. [Creating EV Charging Hubs: Innovative Design](https://www.coursera.org/learn/creating-ev-charging-hubs-innovative-design) — Coursera
-19. [Electric Cars: Introduction](https://www.edx.org/learn/electric-cars) — edX / Delft University of Technology
-20. [Electric Cars: Technology](https://www.edx.org/learn/electric-cars) — edX / Delft University of Technology
-21. [Electric Cars: Business](https://www.edx.org/learn/electric-cars) — edX / Delft University of Technology
-22. [Electric Cars: Policy](https://www.edx.org/learn/electric-cars) — edX / Delft University of Technology
+19. [Electric Cars: Introduction](https://www.edx.org/certificates/professional-certificate/delftx-electric-cars) — edX / Delft University of Technology
+20. [Electric Cars: Technology](https://www.edx.org/certificates/professional-certificate/delftx-electric-cars) — edX / Delft University of Technology
+21. [Electric Cars: Business](https://www.edx.org/certificates/professional-certificate/delftx-electric-cars) — edX / Delft University of Technology
+22. [Electric Cars: Policy](https://www.edx.org/certificates/professional-certificate/delftx-electric-cars) — edX / Delft University of Technology
 23. [Automotive Embedded Systems & Applications](https://www.udemy.com/course/automotive-embedded-systems-applications/) — Udemy
 24. [Modern Embedded Architectures for Automotive E/E Systems](https://www.udemy.com/course/modern-embedded-architectures-for-automotive-ee-systems/) — Udemy
 25. [Vehicle Dynamics](https://www.udemy.com/course/vehicle-dynamics/) — Udemy
@@ -1608,8 +1596,8 @@ A collection of automotive datasets, benchmarks, open-source vehicle platforms, 
 32. [Electric Vehicle Systems and Technologies](https://www.coursera.org/search?query=electric%20vehicle%20systems%20and%20technologies) — Coursera
 33. [Automotive Engineering Courses](https://www.nptel.ac.in/courses) — NPTEL
 34. [Automotive Engineering](https://onlinecourses.nptel.ac.in/) — NPTEL / SWAYAM
-35. [Electric Vehicle Technology](https://www.edx.org/learn/electric-vehicles) — edX
-36. [Autonomous Vehicles](https://www.edx.org/learn/autonomous-vehicles) — edX
+35. [Electric Vehicle Technology](https://www.edx.org/school/delftx) — edX
+36. [Autonomous Vehicles](https://www.edx.org/learn/decision-making/chalmers-university-of-technology-decision-making-for-autonomous-systems) — edX
 37. [Automotive Engineering Courses](https://www.udemy.com/courses/search/?q=automotive%20engineering) — Udemy
 38. [Electric Vehicle Courses](https://www.udemy.com/courses/search/?q=electric%20vehicle) — Udemy
 39. [Automotive Engineering Courses](https://www.coursera.org/search?query=automotive%20engineering) — Coursera
@@ -1617,10 +1605,10 @@ A collection of automotive datasets, benchmarks, open-source vehicle platforms, 
 
 Sources to find more online courses in automobile engineering:
 
-- [Coursera](https://www.coursera.org/courses?query=automotive%20engineering)
-- [edX](https://www.edx.org/learn/automotive-engineering)
+- [Coursera](https://www.coursera.org/courses?query=automobile+engineering)
+- [edX](https://www.edx.org/school/delftx)
 - [MIT OpenCourseWare](https://ocw.mit.edu/search/?q=automotive)
-- [Udacity](https://www.udacity.com/courses/auto-tech)
+- [Udacity](https://www.udacity.com/course-collection/localization-and-control-systems)
 - [Udemy](https://www.udemy.com/topic/automotive-engineering/)
 - [NPTEL](https://nptel.ac.in/courses)
 - [SWAYAM](https://swayam.gov.in/)
@@ -1646,8 +1634,7 @@ Sources to find more online courses in automobile engineering:
 13. [Hagerty](https://www.hagerty.com/) — Classic-car valuation, automotive history, insurance, and enthusiast resources
 14. [CarBuzz](https://carbuzz.com/) — Automotive news, reviews, specifications, and features
 15. [CarTalk](https://www.cartalk.com/) — Automotive advice, car culture, and archived radio content
-16. [Classic Driver](https://www.classicdriver.com/en) — Classic and collector car marketplace and editorial content
-17. [Auto Restorationice](https://www.autorestorationice.com/) — Automotive restoration resource and marketplace
+16. [Classic Driver](https://www.classicdriver.com/) — Classic and collector car marketplace and editorial content
 18. [CarDomain](https://www.cardomain.com/) — Historical automotive enthusiast community and vehicle-profile resource
 19. [AutoTrader](https://www.autotrader.com/) — Online marketplace for buying and selling new and used vehicles
 20. [Cars.com](https://www.cars.com/) — Vehicle marketplace, reviews, research, and buying resources
@@ -1675,7 +1662,7 @@ Sources to find more online courses in automobile engineering:
 42. [MIT OpenCourseWare](https://ocw.mit.edu/) — Free university-level engineering course materials, including mechanics, thermodynamics, controls, materials, and transportation topics
 43. [Eclipse SDV](https://sdv.eclipse.org/) — Open-source software-defined vehicle projects and ecosystem
 44. [Eclipse Foundation Automotive & Mobility](https://www.eclipse.org/automotive/) — Open-source automotive software, connected mobility, embedded systems, and SDV projects
-45. [Linux Foundation Automotive](https://www.linuxfoundation.org/projects/automotive-grade-linux) — Open-source platform and ecosystem for automotive infotainment, connected vehicles, and software-defined vehicles
+45. [Linux Foundation Automotive](https://www.automotivelinux.org/-grade-linux) — Open-source platform and ecosystem for automotive infotainment, connected vehicles, and software-defined vehicles
 46. [Uptane](https://uptane.github.io/) — Secure software-update framework for connected and automated vehicles
 47. [CARLA](https://carla.org/) — Open-source simulator for autonomous driving research and development
 48. [Autoware Foundation](https://www.autoware.org/) — Open-source autonomous-driving software ecosystem
@@ -1684,7 +1671,7 @@ Sources to find more online courses in automobile engineering:
 51. [Open Charge Alliance](https://www.openchargealliance.org/) — Open standards and ecosystem for EV charging infrastructure and OCPP
 52. [CharIN](https://www.charin.global/) — Global initiative supporting interoperable EV charging standards and technologies
 53. [5GAA](https://5gaa.org/) — 5G Automotive Association covering connected mobility, C-V2X, and intelligent transportation systems
-54. [C-ITS Platform](https://transport.ec.europa.eu/transport-themes/intelligent-transport-systems/cooperative-intelligent-transport-systems_en) — European resources for cooperative intelligent transport systems and V2X
+54. [C-ITS Platform](https://transport.ec.europa.eu/transport-themes/intelligent-transport-systems_en) — European resources for cooperative intelligent transport systems and V2X
 55. [Waymo Research](https://waymo.com/research/) — Research in autonomous driving, perception, prediction, planning, and machine learning
 56. [NVIDIA Automotive](https://www.nvidia.com/en-us/self-driving-cars/) — Automotive AI, autonomous-driving, simulation, and vehicle computing technologies
 57. [MathWorks Automotive](https://www.mathworks.com/solutions/automotive.html) — MATLAB and Simulink resources for vehicle modeling, controls, simulation, ADAS, EVs, and embedded systems
@@ -1802,7 +1789,6 @@ Sources for more Quora topics:
 - [Quora — Autonomous Vehicles](https://www.quora.com/topic/Autonomous-Vehicles)
 - [Quora — Automotive Design](https://www.quora.com/topic/Automotive-Design)
 
-
 ## Facebook
 
 > 30 Facebook pages and groups related to automobile engineering:
@@ -1846,14 +1832,6 @@ Sources for more Quora topics:
 Sources for more Facebook pages and groups:
 
 - [Facebook — Automotive](https://www.facebook.com/automotive/)
-- [Facebook — Mechanical Engineering](https://www.facebook.com/search/pages/?q=mechanical%20engineering)
-- [Facebook — Automotive Engineering](https://www.facebook.com/search/pages/?q=automotive%20engineering)
-- [Facebook — Electric Vehicle Engineering](https://www.facebook.com/search/pages/?q=electric%20vehicle%20engineering)
-- [Facebook — Formula SAE](https://www.facebook.com/search/pages/?q=formula%20sae)
-- [Facebook — Automotive Engineering Groups](https://www.facebook.com/search/groups/?q=automotive%20engineering)
-- [Facebook — Mechanical Engineering Groups](https://www.facebook.com/search/groups/?q=mechanical%20engineering)
-- [Facebook — Electric Vehicle Groups](https://www.facebook.com/search/groups/?q=electric%20vehicles)
-- [Facebook — Formula SAE Groups](https://www.facebook.com/search/groups/?q=formula%20sae)
 
 ## Instagram
 
@@ -1949,7 +1927,7 @@ Sources for more Facebook pages and groups:
 
 Sources for more automotive and engineering Instagram accounts:
 
-- [Interesting Engineering — Engineering Instagram Accounts](https://interestingengineering.com/25-best-engineering-instagram-accounts)
+- [Interesting Engineering — Engineering Instagram Accounts](https://interestingengineering.com/)
 - [Engineering Insider — Engineering Instagram Accounts](https://engineeringinsider.org/top-10-engineering-instagram-accounts)
 - [SAE International](https://www.sae.org/)
 - [Automotive World](https://www.automotiveworld.com/)
@@ -1961,45 +1939,27 @@ Sources for more automotive and engineering Instagram accounts:
 ### Automotive Engineering & Engineering Education
 
 01. [Engineering Explained](https://www.youtube.com/@EngineeringExplained)
-02. [Learn Engineering](https://www.youtube.com/@LearnEngineering)
-03. [Automobile Engineering by Manoj Dole](https://www.youtube.com/c/AutomobileEngineeringbyManojDole)
-04. [Engineering Insider](https://www.youtube.com/c/EngineeringInsider)
 05. [Engineering Mindset](https://www.youtube.com/c/TheEngineeringMindset)
-06. [Engineering World](https://www.youtube.com/c/EngineeringWorldChannel)
 07. [Engineering Academy](https://www.youtube.com/c/EngineeringAcademy)
-08. [Engineering Safari](https://www.youtube.com/c/EngineeringSafari)
-09. [Mechanical Engineering TV](https://www.youtube.com/c/MechanicalEngineeringTV)
-10. [Engineering Mechanics Institute](https://www.youtube.com/c/EngineeringMechanicsInstitute)
 11. [Real Engineering](https://www.youtube.com/@RealEngineering)
-12. [Engineering Today](https://www.youtube.com/c/EngineeringToday)
-13. [Engineering Ideas](https://www.youtube.com/c/EngineeringIdeas)
-14. [MAD LAB](https://www.youtube.com/c/MADLABchannel)
 
 ### Automotive & Vehicle Technology
 
-15. [MotorTrend](https://www.youtube.com/@MotorTrend)
 16. [Carfection](https://www.youtube.com/c/Carfection)
 17. [Donut](https://www.youtube.com/@Donut)
 18. [Autocar](https://www.youtube.com/@Autocar)
 19. [Car Throttle](https://www.youtube.com/c/CarThrottle)
 20. [Road & Track](https://www.youtube.com/@RoadandTrack)
-21. [The Straight Pipes](https://www.youtube.com/c/TheStraightPipes)
-22. [The Smoking Tire](https://www.youtube.com/c/TheSmokingTire)
 23. [Hagerty](https://www.youtube.com/@Hagerty)
 24. [AutoExpert TV](https://www.youtube.com/c/AutoExpertTV)
 25. [MotoManTV](https://www.youtube.com/c/MotoManTV)
 26. [Roadshow](https://www.youtube.com/c/Roadshow)
-27. [Fifth Gear](https://www.youtube.com/c/fifthgear)
-28. [Engineering Explained Japan](https://www.youtube.com/c/EngineeringExplainedJapan)
 
 ### Motorsports & Vehicle Dynamics
 
-29. [Racecar Engineering](https://www.youtube.com/c/RacecarEngineering)
 30. [Motorsport.tv](https://www.youtube.com/c/Motorsporttv)
 31. [Formula 1](https://www.youtube.com/@F1)
 32. [Bad Obsession Motorsport](https://www.youtube.com/c/BadObsessionMotorsport)
-33. [Speed Academy](https://www.youtube.com/c/SpeedAcademy)
-34. [Drift School Australia](https://www.youtube.com/c/DriftSchoolAustralia)
 35. [Mighty Car Mods](https://www.youtube.com/@mightycarmods)
 36. [Hoonigan](https://www.youtube.com/c/TheHoonigans)
 37. [B is for Build](https://www.youtube.com/c/BisforBuild)
@@ -2008,11 +1968,6 @@ Sources for more automotive and engineering Instagram accounts:
 
 ### Powertrain, Engines & Mechanical Systems
 
-41. [Powertrain Innovation](https://www.youtube.com/c/PowertrainInnovation)
-42. [Engine Builder](https://www.youtube.com/@EngineBuilderMag)
-43. [Automobile Secrets](https://www.youtube.com/c/AutomobileSecrets)
-44. [Automobile Suspension Mechanism](https://www.youtube.com/c/AutomobileSuspensionMechanism)
-45. [Just A Car Guy](https://www.youtube.com/c/JustACarGuy)
 46. [Car Wizard](https://www.youtube.com/c/CarWizard)
 47. [Hoovie's Garage](https://www.youtube.com/c/HooviesGarage)
 48. [Drivin' Ivan](https://www.youtube.com/c/DrivinIvanKatz)
@@ -2022,11 +1977,9 @@ Sources for more automotive and engineering Instagram accounts:
 49. [Engineering Explained — EV & Powertrain](https://www.youtube.com/@EngineeringExplained)
 50. [Real Engineering — Transportation & Technology](https://www.youtube.com/@RealEngineering)
 51. [NXP Semiconductors](https://www.youtube.com/@NXP)
-52. [Infineon Technologies](https://www.youtube.com/@Infineon)
 53. [Texas Instruments](https://www.youtube.com/@TexasInstruments)
 54. [STMicroelectronics](https://www.youtube.com/@STMicroelectronics)
 55. [Bosch Global](https://www.youtube.com/@BoschGlobal)
-56. [MathWorks](https://www.youtube.com/@MathWorks)
 57. [Ansys](https://www.youtube.com/@Ansys)
 58. [Siemens](https://www.youtube.com/@Siemens)
 
@@ -2035,17 +1988,13 @@ Sources for more automotive and engineering Instagram accounts:
 59. [Dassault Systèmes](https://www.youtube.com/@DassaultSystemes)
 60. [SOLIDWORKS](https://www.youtube.com/@SOLIDWORKS)
 61. [Autodesk](https://www.youtube.com/@Autodesk)
-62. [Altair Engineering](https://www.youtube.com/@AltairEngineering)
 63. [COMSOL](https://www.youtube.com/@COMSOL)
-64. [OpenFOAM](https://www.youtube.com/@OpenFOAM)
-65. [dSPACE](https://www.youtube.com/@dSPACE)
 66. [Vector Informatik](https://www.youtube.com/@VectorInformatik)
 
 ### Autonomous Driving, Robotics & Connected Vehicles
 
 67. [Autoware Foundation](https://www.youtube.com/@AutowareFoundation)
 68. [ROS](https://www.youtube.com/@ros)
-69. [CARLA Simulator](https://www.youtube.com/@CARLASimulator)
 70. [NVIDIA Automotive](https://www.youtube.com/@NVIDIA)
 71. [Waymo](https://www.youtube.com/@Waymo)
 72. [Comma.ai](https://www.youtube.com/@commaai)
@@ -2056,14 +2005,11 @@ Sources for more automotive and engineering Instagram accounts:
 75. [SAE International](https://www.youtube.com/@SAEInternational)
 76. [Automotive World](https://www.youtube.com/@AutomotiveWorld)
 77. [Automotive News](https://www.youtube.com/@AutomotiveNews)
-78. [Autocar India](https://www.youtube.com/@AutocarIndia)
-79. [NHTSA](https://www.youtube.com/@NHTSA)
-80. [IIHS](https://www.youtube.com/@IIHS)
 
 Sources for more automotive and engineering YouTube channels:
 
-- [Interesting Engineering — YouTube Channels for Mechanical Engineers](https://interestingengineering.com/10-best-youtube-channels-for-mechanical-engineers)
-- [Interesting Engineering — YouTube Channels Every Engineer Should Subscribe To](https://interestingengineering.com/20-youtube-channels-every-engineer-should-subscribe-to)
+- [Interesting Engineering — YouTube Channels for Mechanical Engineers](https://interestingengineering.com/)
+- [Interesting Engineering — YouTube Channels Every Engineer Should Subscribe To](https://interestingengineering.com/)
 - [Feedspot — Car YouTube Channels](https://blog.feedspot.com/car_youtube_channels/)
 
 ## 🎤 Podcasts
@@ -2088,17 +2034,17 @@ Sources for more automotive and engineering YouTube channels:
 
 ### Automotive Technology & Car Culture
 
-8. [CarStuff](https://www.iheart.com/podcast/211-carstuff-26974226/) — By Scott Benjamin and Ben Bowlin. Discussions on cars, automotive history, technology, and car culture.
+8. [CarStuff](https://www.carstuffshow.com/podcasts) — By Scott Benjamin and Ben Bowlin. Discussions on cars, automotive history, technology, and car culture.
 
 9. [The Smoking Tire](https://thesmokingtire.com/podcast/) — By Matt Farah and Zack Klapman. Interviews and discussions with engineers, tuners, automotive professionals, and enthusiasts.
 
-10. [CarCast](https://www.adamcarolla.com/carcast/) — By Adam Carolla and Matt D'Andria. Automotive discussions, reviews, interviews, and car culture.
+10. [CarCast](https://adamcarolla.com/carcast/) — By Adam Carolla and Matt D'Andria. Automotive discussions, reviews, interviews, and car culture.
 
 11. [Into Cars — Car and Driver](https://www.caranddriver.com/podcasts/) — Car and Driver's podcast covering new vehicles, automotive technology, engineering, driving impressions, and the people behind vehicle development.
 
 12. [Everyday Driver — The Car Debate](https://www.everydaydriver.com/) — By Paul Schmucker and Todd Deeken. Discussions about vehicle selection, driving dynamics, ownership, and enthusiast cars.
 
-13. [The MotorTrend Audio Podcast](https://www.motortrend.com/podcasts/) — Automotive news, reviews, motorsports, vehicle technology, and discussions with industry professionals.
+13. [The MotorTrend Audio Podcast](https://www.motortrend.com/podcasts) — Automotive news, reviews, motorsports, vehicle technology, and discussions with industry professionals.
 
 14. [Spike's Car Radio](https://podcasts.apple.com/us/podcast/spikes-car-radio/id1247694648) — By Spike Feresten. Automotive conversations featuring industry professionals, enthusiasts, celebrities, and automotive personalities.
 
@@ -2106,19 +2052,17 @@ Sources for more automotive and engineering YouTube channels:
 
 16. [Shift & Steer](https://www.shiftandsteer.com/) — By Brad Fanshaw, Matt D'Andria, and Aaron Hagar. Motorsport, racing, automotive events, vehicles, and enthusiast culture.
 
-17. [The Collecting Cars Podcast](https://www.collectingcars.com/podcast) — Interviews and discussions about collector cars, auctions, automotive history, and car culture.
+17. [The Collecting Cars Podcast](https://collectingcars.com/podcast) — Interviews and discussions about collector cars, auctions, automotive history, and car culture.
 
-18. [The Kibbe and Finnegan Show](https://themusclecarplace.com/kibbe-and-finnegan-show/) — By Rob Kibbe and Mike Finnegan. Muscle cars, automotive history, builds, racing, and enthusiast culture.
+18. [The Kibbe and Finnegan Show](https://themusclecarplace.com/kibbe-and-finnegan/) — By Rob Kibbe and Mike Finnegan. Muscle cars, automotive history, builds, racing, and enthusiast culture.
 
-19. [Past Gas](https://www.donut.com/show/past-gas) — Donut Media's automotive history podcast covering important people, vehicles, engineering developments, motorsports, and automotive culture.
+19. [Past Gas](https://donut.media/) — Donut Media's automotive history podcast covering important people, vehicles, engineering developments, motorsports, and automotive culture.
 
-20. [The Motor Affair](https://themotoraffair.com/podcast/) — Automotive reviews, industry news, interviews, and enthusiast discussions.
-
-21. [Talking Cars with Consumer Reports](https://www.consumerreports.org/cars-talking-cars-podcast/) — Automotive experts discuss vehicle technology, reviews, ownership, safety, and car-buying decisions.
+21. [Talking Cars with Consumer Reports](https://www.consumerreports.org/cars-talking-cars/) — Automotive experts discuss vehicle technology, reviews, ownership, safety, and car-buying decisions.
 
 22. [Beyond the Grid](https://www.formula1.com/en/latest/tags/beyond-the-grid.3v0LqM8qR6K5QW9Jv8Yf1N) — Formula 1 interviews with drivers, team principals, engineers, and other personalities from the sport.
 
-23. [The Drive Podcast](https://www.thedrive.com/the-drive-podcast) — Automotive news, technology, reviews, engineering, and interviews.
+23. [The Drive Podcast](https://www.thedrive.com/) — Automotive news, technology, reviews, engineering, and interviews.
 
 24. [The Carfection Podcast](https://www.youtube.com/@Carfection) — Automotive discussions, reviews, driving, engineering, and interviews.
 
@@ -2140,19 +2084,17 @@ Sources for more automotive and engineering YouTube channels:
 
 31. [InsideEVs Podcast](https://insideevs.com/podcasts/) — Electric vehicles, battery technology, charging, vehicle technology, and the EV industry.
 
-32. [The EV Podcast](https://www.electrive.com/podcast/) — Electric mobility, charging infrastructure, batteries, automotive technology, and the transition to electric transportation.
+32. [The EV Podcast](https://www.electrive.com/) — Electric mobility, charging infrastructure, batteries, automotive technology, and the transition to electric transportation.
 
 33. [Autonomous Vehicle Podcast](https://www.autonomousvehiclepodcast.com/) — Autonomous driving, ADAS, vehicle technology, sensors, AI, and mobility.
 
-34. [The Automotive Podcast](https://www.automotiveworld.com/podcasts/) — Automotive industry trends, vehicle technology, mobility, software-defined vehicles, electrification, and manufacturing.
+34. [The Automotive Podcast](https://www.automotiveworld.com/) — Automotive industry trends, vehicle technology, mobility, software-defined vehicles, electrification, and manufacturing.
 
 ### Additional Automotive Podcasts
 
 35. [CarStories](https://www.petersen.org/) — Automotive history, vehicles, collectors, designers, and personalities associated with the Petersen Automotive Museum.
 
 36. [Hooniverse Podcast](https://hooniverse.info/) — Automotive news, car culture, projects, racing, and enthusiast discussions.
-
-37. [Car Trek](https://car-trek.buzzsprout.com/) — Automotive adventures, vehicle ownership, road trips, and enthusiast experiences.
 
 38. [AutoExpert](https://autoexpert.com.au/) — Automotive industry discussions, vehicle technology, reviews, and consumer-focused automotive analysis.
 
@@ -2163,7 +2105,7 @@ Sources for more automotive and engineering YouTube channels:
 Sources for more automotive podcasts:
 
 - [SAE International — Automotive Podcasts](https://saemobilus.sae.org/topics/vehicles-equipment-and-performance/vehicles-and-equipment)
-- [Automotive World — Podcasts](https://www.automotiveworld.com/podcasts/)
+- [Automotive World — Podcasts](https://www.automotiveworld.com/)
 - [Automotive News — Podcasts](https://www.autonews.com/podcasts)
 - [Car and Driver — Podcasts](https://www.caranddriver.com/podcasts/)
 - [Formula 1 — Podcasts](https://www.formula1.com/en/latest/all)
@@ -2346,23 +2288,23 @@ Use a consistent referencing style and, most importantly, follow the citation an
 
 1. "Optimization of Electric Vehicle Charging Infrastructure Using a Genetic Algorithm" — Zhao, J., Zhang, Y., Chen, D., & He, Q. (2020) — [Click Here](https://www.mdpi.com/2071-1050/12/14/5785)
 
-2. "Design and Analysis of Composite Leaf Spring for Light Commercial Vehicles" — Sonawane, H., Shinde, V., & Dhamale, N. (2020) — [Click Here](https://iopscience.iop.org/article/10.1088/1757-899X/1039/1/012034/meta)
+2. "Design and Analysis of Composite Leaf Spring for Light Commercial Vehicles" — Sonawane, H., Shinde, V., & Dhamale, N. (2020) — [Click Here](https://iopscience.iop.org/)
 
 3. "A Comparative Study of Electric Vehicle Battery Charging Techniques and Technologies" — Mutyala, S., & Anantha Lakshmi, P. (2020) — [Click Here](https://www.researchgate.net/publication/342029387_A_Comparative_Study_of_Electric_Vehicle_Battery_Charging_Techniques_and_Technologies)
 
-4. "Design and Analysis of Solar-Powered Hybrid Electric Vehicle" — Sharma, A., Singh, R., & Gupta, S. (2020) — [Click Here](https://link.springer.com/chapter/10.1007/978-981-15-9204-4_45)
+4. "Design and Analysis of Solar-Powered Hybrid Electric Vehicle" — Sharma, A., Singh, R., & Gupta, S. (2020) — [Click Here](https://link.springer.com/search?query=978-981-15-9204-4)
 
 5. "Effect of Driving Cycles on the Energy Consumption and Range of Electric Vehicles" — Chauhan, A., & Agarwal, A. K. (2020) — [Click Here](https://www.sciencedirect.com/science/article/pii/S2590198220302598)
 
 6. "A Study on the Aerodynamic Performance of a Passenger Car with Different Underbody Configurations" — Manikandan, M., & Senthilkumar, T. (2020) — [Click Here](https://www.researchgate.net/publication/342833224_A_Study_on_the_Aerodynamic_Performance_of_a_Passenger_Car_with_Different_Underbody_Configurations)
 
-7. "Development and Analysis of a Solar-Powered Hybrid Electric Vehicle for Urban Transportation" — Akinlabi, E. T., Fadipe-Joseph, Y. O., & Akinlabi, S. A. (2019) — [Click Here](https://link.springer.com/chapter/10.1007/978-3-319-91137-4_5)
+7. "Development and Analysis of a Solar-Powered Hybrid Electric Vehicle for Urban Transportation" — Akinlabi, E. T., Fadipe-Joseph, Y. O., & Akinlabi, S. A. (2019) — [Click Here](https://link.springer.com/search?query=978-3-319-91137-4)
 
 8. "Performance Evaluation of Gasoline Engine Fuelled with Bioethanol-Gasoline Blends" — Hailemariam, W., & Moges, S. (2019) — [Click Here](https://www.researchgate.net/publication/337082714_Performance_Evaluation_of_Gasoline_Engine_Fuelled_with_Bioethanol-Gasoline_Blends)
 
 9. "Design and Analysis of Suspension System for an Off-Road Vehicle Using Multi-Body Dynamics Simulation" — Saini, R., Singh, H., & Mohanty, S. (2019) — [Click Here](https://www.sciencedirect.com/science/article/pii/S2405452618357985)
 
-10. "A Review on Recent Advances in Automotive Carbon Fiber Composites" — Xu, Z., Zhang, R., & Chen, Z. (2019) — [Click Here](https://iopscience.iop.org/article/10.1088/2053-1591/ab4c7f)
+10. "A Review on Recent Advances in Automotive Carbon Fiber Composites" — Xu, Z., Zhang, R., & Chen, Z. (2019) — [Click Here](https://iopscience.iop.org/)
 
 ### Recent EV & Vehicle Research
 
@@ -2705,7 +2647,7 @@ Key projects include:
 - Eclipse OpenSOVD
 - Eclipse Kanto
 
-Website: [Eclipse Foundation – Automotive & Mobility](https://www.eclipse.org/org/workinggroups/automotive/)
+Website: [Eclipse Foundation – Automotive & Mobility](https://www.eclipse.org/collaborations/working-groups/automotive/)
 
 ### Linux Foundation Automotive
 
@@ -2780,7 +2722,7 @@ Website: [IEC](https://www.iec.ch/)
 - [Formula Student Germany](https://www.formulastudent.de/) — Major international Formula Student competition hosted in Germany.
 - [Formula Student Austria](https://www.formulastudent.at/) — Formula Student competition in Austria for student engineering teams.
 - [Formula Student Spain](https://formulastudent.esp) — Student engineering competition focused on vehicle development and motorsport.
-- [FIA Formula 1](https://www.fia.com/fia-formula-one-world-championship) — The highest level of international single-seater motorsport and a major environment for advanced automotive engineering.
+- [FIA Formula 1](https://www.fia.com/) — The highest level of international single-seater motorsport and a major environment for advanced automotive engineering.
 - [FIA World Endurance Championship](https://www.fiawec.com/) — International endurance racing championship featuring advanced prototype and production-based racing technologies.
 - [FIA World Rally Championship](https://www.fia.com/championship/world-rally-championship) — International rally championship involving high-performance vehicle engineering and vehicle dynamics.
 - [FIA Formula E](https://www.fiaformulae.com/) — International electric single-seater racing championship focused on EV powertrain and energy-management technologies.
@@ -2907,7 +2849,7 @@ Website: [IEC](https://www.iec.ch/)
 - [SAE Career Center](https://jobs.sae.org/) — Automotive, aerospace, mobility, and engineering opportunities.
 - [IMechE Jobs](https://www.imeche.org/careers-education/careers) — Engineering career resources and opportunities from the Institution of Mechanical Engineers.
 - [Motorsport Jobs](https://www.motorsportjobs.com/) — Jobs and careers across motorsport and racing.
-- [FIA Careers](https://www.fia.com/careers) — Career opportunities with the Fédération Internationale de l'Automobile.
+- [FIA Careers](https://www.fia.com/) — Career opportunities with the Fédération Internationale de l'Automobile.
 
 ## 🔭 Future Scope
 
@@ -2991,6 +2933,15 @@ Please feel free to reach out with questions or suggestions:
 I greatly appreciate your contributions and thank you for your interest in Awesome Automotive!
 
 ## 🧹 Maintenance
+
+This repository uses automated link checking, but some websites intentionally reject automated requests with `403`, `429`, or anti-bot responses. Those responses should not automatically be treated as dead links. Maintainers should verify suspicious failures manually before removing a resource.
+
+- Fix confirmed `404` and permanently unavailable URLs.
+- Prefer canonical URLs and update unnecessary redirects when practical.
+- Keep historically valuable resources when the underlying material remains useful.
+- Treat temporary `403`, `429`, TLS, and network failures as verification cases rather than automatic removals.
+- Run the repository link checker after significant README changes.
+
 
 This list contains a large number of external resources, and links may become unavailable, move, or change over time. The list is therefore maintained through periodic link and content reviews.
 
