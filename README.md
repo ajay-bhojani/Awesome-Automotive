@@ -1678,6 +1678,7 @@ Sources to find more online courses in automobile engineering:
 58. [Ansys Automotive](https://www.ansys.com/industries/automotive) — Multiphysics simulation and engineering tools for automotive development
 59. [Altair Automotive](https://altair.com/automotive) — Simulation, optimization, lightweighting, electrification, and automotive engineering solutions
 60. [OpenFOAM](https://www.openfoam.com/) — Open-source computational fluid dynamics software useful for automotive aerodynamics and thermal-flow simulation
+61. [0–60 Performance Tools](https://0to60tools.com/) — Free browser calculators for power-to-weight ratios, 0–60 mph and quarter-mile estimates, with published equations and optional measured-baseline comparisons
 
 ## 📢 Blogs
 
