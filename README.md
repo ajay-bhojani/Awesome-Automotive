@@ -1272,6 +1272,8 @@ A collection of engineering, simulation, CAD/CAE, automotive networking, embedde
 - [BoltPatternHQ](https://boltpatternhq.com/) — automotive wheel-fitment database and lookup platform covering bolt pattern, PCD, center bore, thread size, offset, and related fitment information.
 - [BoltPatternHQ MCP Server](https://github.com/double2dev/boltpatternhq-mcp) — open-source Model Context Protocol server providing AI assistants with access to BoltPatternHQ wheel-fitment reference data.
 - [ANKUSI Wheel Fitment Dataset](https://github.com/david025445) — open CC BY 4.0 dataset of factory wheel specifications including bolt pattern, center bore, lug count, and OE wheel sizes.
+- [Dirt Bike Plastics Fitment Dataset](https://github.com/dirt-bike-graphics/dirt-bike-graphics.github.io): Open MIT dataset mapping shared bodywork plastics across 175 model years (76 models, 11 motocross and enduro brands) in JSON, Go, and PHP.
+- [Motorcycle Helmet Shell Styles Catalog](https://github.com/dirt-bike-graphics/custom-motorcycle-helmet): Open MIT reference catalog of 33 motorcycle helmet shell silhouettes, paintable 3D surface zones, and finish specifications in JSON, Go, and PHP.
 
 ---
 
