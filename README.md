@@ -406,6 +406,8 @@ Covers **embedded systems**, **ECUs**, **AUTOSAR**, **RTOS**, **microcontrollers
 
 - [CSS Electronics — A2L / ASAP2 Guide](https://www.csselectronics.com/pages/a2l-file-asap2-intro-xcp-on-can-bus) — introduction to A2L files and ASAM MCD-2 MC for ECU measurement and calibration using XCP.
 
+- [CSS Electronics — AI CAN Bus Reverse Engineering](https://www.csselectronics.com/pages/can-bus-reverse-engineering-ai-llm-claude) — walkthrough of reverse engineering CAN signals into DBC files with Claude Code and python-can.
+
 - [ISO 11898 — CAN Standard](https://www.iso.org/standard/63648.html) — international standard series defining CAN data-link and physical-layer specifications, including the foundation for modern CAN networks.
 
 - [ISO 14229 — Unified Diagnostic Services (UDS)](https://www.iso.org/standard/72439.html) — international standard for diagnostic communication between vehicle diagnostic systems and electronic control units.
@@ -1236,6 +1238,9 @@ A collection of engineering, simulation, CAD/CAE, automotive networking, embedde
 - [python-can](https://python-can.readthedocs.io/) — Python library for communicating with CAN networks and CAN hardware.
 - [cantools](https://github.com/cantools/cantools) — Python toolkit for CAN databases, decoding, diagnostics, logging, and CAN-related data processing.
 - [SavvyCAN](https://www.savvycan.com/) — open-source CAN-bus reverse-engineering, visualization, logging, and analysis tool.
+- [CSS Electronics CANsub](https://www.csselectronics.com/products/can-fd-usb-interface-ethernet-cansub-2) — 2-channel USB/Ethernet CAN FD interface with a browser-based UI, plus python-can and SocketCAN support.
+- [DBC Editor](https://www.csselectronics.com/pages/dbc-editor-can-bus-database) — free online DBC editor (incl. J1939, OBD2 and multiplexing) that runs locally in the browser.
+- [J1939 PGN Converter](https://www.csselectronics.com/pages/j1939-pgn-conversion-tool) — free online tool to convert 29-bit CAN IDs to J1939 PGNs and back.
 
 ### Robotics & Autonomous Driving
 
@@ -1330,6 +1335,7 @@ A collection of automotive datasets, benchmarks, open-source vehicle platforms, 
 - [SavvyCAN](https://github.com/collin80/SavvyCAN) — open-source CAN-bus analysis and visualization software.
 - [CANopenNode](https://github.com/CANopenNode/CANopenNode) — open-source CANopen protocol stack.
 - [SocketCAN ISO-TP](https://github.com/hartkopp/can-isotp) — Linux CAN ISO-TP implementation useful for automotive diagnostic communication.
+- [CAN Bus Reverse Engineering Skills](https://github.com/CSS-Electronics/can-bus-reverse-engineering-skills) — open-source Claude Code skills for reverse engineering CAN signals into DBC files with python-can.
 
 ### Wheel & Fitment Data
 
